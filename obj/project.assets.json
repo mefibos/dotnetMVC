@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/Users/mefi-bosetnavarro/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mefi-bosetnavarro/Documents/Docs/Learning/Platzi/Azure/WebApps-LogicApps/WebSite/WebSiteMVC/WebSiteMVC.csproj",
+      "projectName": "WebSiteMVC",
+      "projectPath": "/Users/mefi-bosetnavarro/Documents/Docs/Learning/Platzi/Azure/WebApps-LogicApps/WebSite/WebSiteMVC/WebSiteMVC.csproj",
+      "packagesPath": "/Users/mefi-bosetnavarro/.nuget/packages/",
+      "outputPath": "/Users/mefi-bosetnavarro/Documents/Docs/Learning/Platzi/Azure/WebApps-LogicApps/WebSite/WebSiteMVC/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mefi-bosetnavarro/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/5.0.206/libexec/sdk/5.0.206/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
